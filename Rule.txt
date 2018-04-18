@@ -1,0 +1,10 @@
+Suhu,Persentase Orang,Prediksi Permintaan
+Dingin,Rendah,Rendah
+Dingin,Normal,Rendah
+Dingin,Tinggi,Normal
+Sedang,Rendah,Rendah
+Sedang,Normal,Normal
+Sedang,Tinggi,Normal
+Hangat,Rendah,Normal
+Hangat,Normal,Tinggi
+Hangat,Tinggi,Tinggi

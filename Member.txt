@@ -1,0 +1,3 @@
+Suhu	Dingin,10,15|Sedang,10,15,20,25|Hangat,20,25
+Persentase Orang	Rendah,5,15|Normal,5,15,30,40|Tinggi,30,40
+Prediksi Permintaan	Rendah,0.375,0.4375|Normal,0.375,0.4375,0.5625,0.625|Tinggi,0.5625,0.625
