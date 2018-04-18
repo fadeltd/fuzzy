@@ -28,11 +28,11 @@ This is Java application to consume predict with tsukamoto fuzzy.
 - Your jar will located at `dist`
 
 ## Author
-Andro Subagio 
-Fadel Trivandi Dipantara (https://github.com/fadeltd)
-Indrahidayati Nur Rohmah
-Nindy Akvalentin Kusumaningrum
-Rizky Kharisma (https://github.com/ngengs)
+* Andro Subagio 
+* Fadel Trivandi Dipantara (https://github.com/fadeltd)
+* Indrahidayati Nur Rohmah
+* Nindy Akvalentin Kusumaningrum
+* Rizky Kharisma (https://github.com/ngengs)
 
 ### License
 
