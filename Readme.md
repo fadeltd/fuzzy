@@ -8,11 +8,11 @@ This is Java application to consume predict with tsukamoto fuzzy.
 
 ## Preview
 
-![Screenshot](/.github/screenshots/preview-1.png?raw=true)
-![Screenshot](/.github/screenshots/preview-2.png?raw=true)
-![Screenshot](/.github/screenshots/preview-3.png?raw=true)
-![Screenshot](/.github/screenshots/preview-4.png?raw=true)
-![Screenshot](/.github/screenshots/preview-5.png?raw=true)
+![Screenshot](/screenshots/preview-1.png?raw=true)
+![Screenshot](/screenshots/preview-2.png?raw=true)
+![Screenshot](/screenshots/preview-3.png?raw=true)
+![Screenshot](/screenshots/preview-4.png?raw=true)
+![Screenshot](/screenshots/preview-5.png?raw=true)
 
 ### Build
 #### Requirement
